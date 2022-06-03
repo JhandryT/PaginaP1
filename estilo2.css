@@ -1,0 +1,56 @@
+
+body{
+    height: 150px;
+    width: 300px;
+    border:1px solid black ;
+    border-radius: 5px;
+
+}
+
+form{
+	height: 100%;
+	width: 100%;
+	background-color: greenyellow;
+}
+
+input[type=submit]{
+
+	width: 22%;
+	cursor: pointer;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 10px;
+	color: black;
+	padding: 18px;
+	margin: 3px;
+	border: 0;
+	border-radius: 100%;
+}
+
+
+.miclaseCSS{
+	color: orange;
+    font-size: 30px ;
+}
+
+#miBotons{
+	background-color: orange;
+}
+#miBotonr{
+	background-color: blue;
+}
+#miBotonm{
+	background-color: orange;
+}
+#miBotond{
+	background-color: blue;
+}
+
+h1 {
+    background-color: yellow;
+	color: #252525;
+	font-size: 35px;
+	font-weight: 800;
+	margin-bottom: 30px;
+	text-align: center;
+}
